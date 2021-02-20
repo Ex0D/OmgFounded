@@ -14,4 +14,4 @@ That's it
 **Ressources to understand how it's work :**
 [P2P](https://en.wikipedia.org/wiki/Peer-to-peer) / 
 [RTCPeerConnection](https://developer.mozilla.org/en-US/docs/Web/API/RTCPeerConnection) / 
-[STUN](https://en.wikipedia.org/wiki/STUN) / 
+[STUN](https://en.wikipedia.org/wiki/STUN) 
