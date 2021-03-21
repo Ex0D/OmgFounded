@@ -27,6 +27,7 @@ let getLocation = async (ip) => {
     response.json().then((json) => {
       const output = `
         ---------------------
+          IP: ${ip}
           Country: ${json.country_name || "No data"}
           State: ${json.state_prov || "No data"}
           City: ${json.city || "No data"}
