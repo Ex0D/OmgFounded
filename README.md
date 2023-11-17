@@ -1,6 +1,4 @@
 # OmgFounded
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Ex0D/OmgFounded.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Ex0D/OmgFounded/context:javascript)
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/Ex0D/OmgFounded.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Ex0D/OmgFounded/alerts/)
 
 **Disclaimer :**
 * I'm not the owner of the following code (see [this](https://www.youtube.com/watch?v=fN9cWpY5zUc) video)
